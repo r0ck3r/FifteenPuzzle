@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Пятнашки</string>
+    <string name="cancel">Отмена</string>
+    <string name="hardshuffle">Сложное перемешивание</string>
+    <string name="movescnt">"Количество ходов: "</string>
+    <string name="no">Нет</string>
+    <string name="reset">Сначала</string>
+    <string name="resetmsg">Вы действительно хотите начать сначала?</string>
+    <string name="resettext">Сброс</string>
+    <string name="soundenabled">Включить звук</string>
+    <string name="win">"Вы победили с числом ходов: "</string>
+    <string name="yes">Да</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fifteen Puzzle</string>
+    <string name="movescnt">Moves count: </string>
+    <string name="resettext">Reset</string>
+    <string name="resetmsg">Do you really want reset?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="win">You win with moves count: </string>
+    <string name="reset">Reset</string>
+    <string name="cancel">Cancel</string>
+    <string name="soundenabled">Sound enabled</string>
+    <string name="hardshuffle">Hard shuffle</string>
+</resources>
